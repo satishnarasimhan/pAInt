@@ -1,2 +1,2 @@
 # pAInt
-Tensorflow based image styling
+This project uses image styling from Tensorflow to provide an artistic touch to images / photographs 
